@@ -7,17 +7,34 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhagyasrathore" alt="bhagyasrathore" /></a> </p>
 
-- 🔭 I’m currently working on [WanderWise](https://github.com/BhagyaSRathore/WanderWise)
+Frontend Developer | Learning Backend (Flask & Python) | Open-Source Enthusiast
 
-- 🌱 I’m currently learning **Django**
+About Me
 
-- 👯 I’m looking to collaborate on **Web Native Projects**
+- Currently building ShareBite, a community food-sharing app using React and Tailwind.
+- Expanding my skills in Flask, APIs, and database management to grow into a full-stack developer.
+- Interested in web development, AI-powered applications, and hackathon-driven innovation.
+- Love collaborating on open-source and team-based projects that make a real impact.
 
-- 🤝 I’m looking for help with **Frameworks**
+Hackathon Participation
 
-- 💬 Ask me about **Frameworks**
+-Selected for Smart India Hackathon (SIH) 2025.
+-Worked on [Project Draupadi], a safety and alert system designed to instantly notify trusted contacts and authorities in emergency situations.
+-Focused on creating a dual-alert mechanism combining hardware and software for real-world usability.
 
-- 📫 How to reach me **bhagyasrathore@gmail.com**
+Tech Toolbox
+
+-Languages: Python, JavaScript, C++
+-Frontend: React, Tailwind CSS, HTML, CSS
+-Backend (learning): Flask, REST APIs
+-Databases: MySQL, SQLite
+-Tools & Platforms: Git, GitHub, Figma
+
+Highlights
+
+-Participated in SIH 2025 with Project Draupadi.
+-Participated in the ISRO Bharatiya Antariksh Hackathon.
+-Alumni Committee Member: gained hands-on event management & collaboration experience.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
