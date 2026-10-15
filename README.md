@@ -42,17 +42,17 @@ An inventory and warehouse management platform focused on stock visibility, ware
 
 ## Technical Skills
 
-**Languages:** C, C++, Python, Java, JavaScript
+**Languages:** C, C++, Python, JavaScript
 
 **Frontend:** HTML5, CSS3, React, Tailwind CSS
 
-**Backend:** Node.js, Express.js, Flask, REST APIs
+**Backend:** Node.js, Express.js, REST APIs
 
-**Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+**Databases:** PostgreSQL, MySQL, MongoDB
 
-**Core Computer Science:** Data Structures and Algorithms, Object-Oriented Programming, Operating Systems, Database Management Systems, Computer Networks
+**Core Computer Science:** Data Structures and Algorithms, Object-Oriented Programming, Operating Systems, Database Management Systems
 
-**Tools and Platforms:** Git, GitHub, Figma, VS Code
+**Tools and Platforms:** Git, GitHub, VS Code
 
 ## Experience and Activities
 
